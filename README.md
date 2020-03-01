@@ -1,0 +1,2 @@
+# MowItNow
+Scala project.
