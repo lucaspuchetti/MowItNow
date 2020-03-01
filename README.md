@@ -1,5 +1,5 @@
 # MowItNow
-Scala project. The aim of this project is to create a program that feds on an instructions file to manage one or several lawn mowers.
+Scala project. The aim of this project is to create a program that feeds on an instructions file to manage one or several lawn mowers.
 
 ## Group Members of the project:
 - Lotfi, Rana
